@@ -7,36 +7,7 @@
 <link href='http://fonts.googleapis.com/css?family=Alegreya' rel='stylesheet' type='text/css'>
 <link href='http://fonts.googleapis.com/css?family=Oxygen' rel='stylesheet' type='text/css'>
 <style>
-#heading {
-	background-color: firebrick;
-	color: white;
-	font-family: 'Oxygen', sans-serif; 
-	border-radius: .5em;
-	padding-left: .5em;
-	margin: 1em;	
-}
-a {
-	color: firebrick;
-}
-#column1 {
-	font-family: 'Alegreya', serif;
-	margin: 1em; 
-}
-#column2 {
-	font-family: 'Alegreya', serif;
-	margin: 1em;
-}
-.textbox {
-	border: 1px solid;
-	border-color: black;
-	border-radius: 1em;
-	height: 36em;
-	background-color: blanchedalmond;
-	padding-bottom: 2em;
-	padding-left: 2em;
-	padding-right: 2em;
-	margin-bottom: 1em;
-}
+
 </style>
 </head>
 <body>
